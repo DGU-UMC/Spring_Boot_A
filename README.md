@@ -4,9 +4,9 @@ DGU-UMC 9기 Spring Boot 스터디 A조
 
 ## 💻 Member
 
-|               박박지현                |                 박박지현                  |                박박지현                 |                  박박지현                   |
+|               랜도                |                 박박지현                  |                슝                 |                  제이                   |
 | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
-| [박지현](https://github.com/wlgusqkr) | [박지현](https://github.com/wlgusqkr) | [박지현](https://github.com/wlgusqkr) | [박지현](https://github.com/wlgusqkr) |
+| [김동찬](https://github.com/dongchan0105) | [박지현](https://github.com/wlgusqkr) | [하승연](https://github.com/yeonthusiast) | [김윤지](https://github.com/yooncandooit) |
 
 ## 📁 디렉토리 구조
 
